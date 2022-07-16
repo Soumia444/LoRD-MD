@@ -18,28 +18,28 @@ global.APIKeys = {
 }
 //======================================//
 
-global.wm = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮'
+global.wm = 'ᴍʏ ɪɴsᴛᴀɢʀᴀᴍ :  ᴍᴏᴜᴜᴀᴅ__ᴇʟᴋ'
 global.ucpn = ''
 
 //================= Url =================//
-global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
-global.linkig = 'https://www.instagram.com/reel/Ccx79E0A8Rt/?igshid=YmMyMTA2M2Y='
+global.linkgc = 'https://chat.whatsapp.com/KUGDNzTkom7Co72LHCzYiS'
+global.linkig = 'https://instagram.com/mouuad__elk'
 global.linkyt = 'https://youtu.be/RnpyRe_7jZA'
-global.linkfb = 'https://fb.watch/aYv0jAffAO'
+global.linkfb = 'https://www.facebook.com/cassamouad'
 global.web = 'https://raselcomel.github.io'
 global.web1 = 'https://anu.rasell.repl.co'
-global.linkgh = 'https://github.com/Lord-official'
+global.linkgh = 'https://github.com/MOUADOFFICIAL'
 
 global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'Lord-official'
+global.bodlink = 'mouuad__elk'
 // Other
-global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
-global.owner = ['919778383987']
-global.premium = ['919778383987']
-global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
-global.author = '𝐿𝑜𝑟𝑑-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
-global.sessionName = 'lord'
+global.watermark = 'ᴍʏ ɪɴsᴛᴀɢʀᴀᴍ :  ᴍᴏᴜᴜᴀᴅ__ᴇʟᴋ'
+global.owner = ['212695290310']
+global.premium = ['212695290310']
+global.packname = 'ᴍᴏᴜᴀᴅ ᴇʟ'
+global.author = 'ᴍʏ ɪɴsᴛᴀɢʀᴀᴍ :  ᴍᴏᴜᴜᴀᴅ__ᴇʟᴋ'
+global.sessionName = 'ᴍᴏᴜᴀᴅ ᴇʟ'
 global.prefa = ['','!','.','🐦',',','*']
 global.sp = '❄︎'
 global.mess = {
